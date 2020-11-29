@@ -9,4 +9,4 @@
 -----
 > This project will develop a board game. 
 >
-> Therefore, the selection and coding of board games to be developed will be made.
+> Therefore, the selection and coding of  board game to be developed will be made.
